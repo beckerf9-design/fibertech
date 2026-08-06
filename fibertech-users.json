@@ -1,0 +1,13 @@
+{
+  "schema": "fibertech-users",
+  "version": 1,
+  "updated_at": "2026-08-06T21:40:00+02:00",
+  "expires_at": 1801440000,
+  "users": [
+    {"username": "Fabian", "code_sha256": "b9d7a9ed1c4af0d75b761a3835675e6f6e518c596fed8ffec61b38acd7959d37", "active": true},
+    {"username": "FabianTest", "code_sha256": "474e731815fa1d92679e448df5009fd8bc9ef742bce711fdbbf7c9ad2c015e78", "active": true},
+    {"username": "Monteur01", "code_sha256": "b961ff4c25438ee55fd1e66bf801df959db5db8450a0a2f8c08b596a84930207", "active": true},
+    {"username": "Technik01", "code_sha256": "79123503b5bad989bf346ef9630b53ac26799248495e4d4acccf5337f8e9fbba", "active": true},
+    {"username": "Bauleiter01", "code_sha256": "45f01aa3107212b36c5690f5a0841be587a1280f0e6005a5ab6a40a43abae460", "active": true}
+  ]
+}
