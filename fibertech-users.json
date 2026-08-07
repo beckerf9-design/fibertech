@@ -1,7 +1,7 @@
 {
   "schema": "fibertech-users",
   "version": 1,
-  "updated_at": "2026-08-07T22:32:25+02:00",
+  "updated_at": "2026-08-07T22:33:25+02:00",
   "expires_at": 1801440000,
   "users": [
     {
@@ -16,7 +16,7 @@
     },
     {
       "username": "test2",
-      "code_sha256": "381111c2620c44d92258f040eaa87252842ffc6488d55faabeee3ec0160c71eb",
+      "code_sha256": "90c1f8747447dc4c771f0684c7009f0caa55e74246b7939747e275a6b008aa6c",
       "active": true
     },
     {
