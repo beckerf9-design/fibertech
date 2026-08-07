@@ -1,13 +1,38 @@
 {
   "schema": "fibertech-users",
   "version": 1,
-  "updated_at": "2026-08-06T22:05:00+02:00",
+  "updated_at": "2026-08-07T22:18:19+02:00",
   "expires_at": 1801440000,
   "users": [
-    {"username": "Fabian", "code_sha256": "b9d7a9ed1c4af0d75b761a3835675e6f6e518c596fed8ffec61b38acd7959d37", "active": true},
-    {"username": "test1", "code_sha256": "44fe32d9e309d1a132ed6369ca1b9b5ad7d2ee4b510691a400dfd5ba7d532159", "active": true},
-    {"username": "test2", "code_sha256": "381111c2620c44d92258f040eaa87252842ffc6488d55faabeee3ec0160c71eb", "active": true},
-    {"username": "test3", "code_sha256": "f6b035fadfbbe64b1a897c88e4274437ff433e3e50502c4c6201a0bfbed6fcf8", "active": true},
-    {"username": "test4", "code_sha256": "f3973e50e21880407eef492c24c72afefdba292a9d9268dd4c92b8e8ddd3cc7d", "active": true}
+    {
+      "username": "Fabian",
+      "code_sha256": "b9d7a9ed1c4af0d75b761a3835675e6f6e518c596fed8ffec61b38acd7959d37",
+      "active": true
+    },
+    {
+      "username": "test1",
+      "code_sha256": "44fe32d9e309d1a132ed6369ca1b9b5ad7d2ee4b510691a400dfd5ba7d532159",
+      "active": true
+    },
+    {
+      "username": "test2",
+      "code_sha256": "381111c2620c44d92258f040eaa87252842ffc6488d55faabeee3ec0160c71eb",
+      "active": true
+    },
+    {
+      "username": "test3",
+      "code_sha256": "f6b035fadfbbe64b1a897c88e4274437ff433e3e50502c4c6201a0bfbed6fcf8",
+      "active": true
+    },
+    {
+      "username": "test4",
+      "code_sha256": "f3973e50e21880407eef492c24c72afefdba292a9d9268dd4c92b8e8ddd3cc7d",
+      "active": true
+    },
+    {
+      "username": "test6",
+      "code_sha256": "be22ff1011d55ade058f7a867b75e66c0e16929f7b08b2cbdf96b0ae44346811",
+      "active": true
+    }
   ]
 }
