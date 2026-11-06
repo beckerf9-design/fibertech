@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "android": {
+      "versionName": "1.1.119",
+      "versionCode": 132,
+      "packageName": "de.fibertech.mobile.terminpilot",
+      "url": "https://github.com/beckerf9-design/fibertech/releases/download/terminpilot-v1.1.119/FiberTech-Terminpilot-1.1.119.apk",
+      "sha256": "051cbc8ec3af0550942707e6f5953dbeec7910bde370e9257ac3475b686a07be",
+      "signingCertificateSha256": "881d8f61a498abcdd40c180018d47260570d805c8ff05dae78a215ca299b6b2d"
+    }
+  }
+}
